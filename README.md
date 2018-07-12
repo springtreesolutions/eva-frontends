@@ -13,6 +13,7 @@ Umbrella repository for information about the collection of EVA Frontends
         - [Other information](#other-information)
     - [EVA PoS App - Redesign](#eva-pos-app---redesign)
     - [EVA Sign App](#eva-sign-app)
+        - [Other information](#other-information)
 
 ## EVA Sales App
 
@@ -27,23 +28,24 @@ The original EVA Sales App
 ### Other information
 
 - Application ID: io.newblack.eva-*-app
+- iOS only and distributed as Enterprise application
 
 ## EVA Sales App 2.0
 
-New mobile sales app for EVA
+New mobile Sales App for EVA
 
 - Repository: https://github.com/springtreesolutions/eva-sales-app
 
 ### Other information
 
 - Application ID: io.newblack.eva.*.app
+- iOS only and distributed as Enterprise application
 
 ## EVA PoS App
 
 Touch screen optimized PoS application intended to be used as a static station
 
 - Repository: https://github.com/springtreesolutions/eva-pos-app
-- Branches: develop and master
 
 ### Also known as
 
@@ -52,15 +54,21 @@ Touch screen optimized PoS application intended to be used as a static station
 
 ### Other information
 
-Deployed as both a web application and packaged as electron app
+- Deployed as both a web application and packaged as electron app
 
 ## EVA PoS App - Redesign
 
-The redesigned variant of the [EVA PoS App](#EVA-PoS-App) which is actually just a different branch of the EVA PoS App.
+Redesigned variant of the [EVA PoS App](#EVA-PoS-App) which is actually just a different branch of the EVA PoS App.
 
 - Repository: https://github.com/springtreesolutions/eva-pos-app
 - Branches: feature/redesign
 
 ## EVA Sign App
 
-The
+The EVA companion app for getting the signature of a B2B customer during the order process
+
+- Repository: https://github.com/springtreesolutions/eva-sign-app
+
+### Other information
+
+- Application ID: io.newblack.evasignapp
