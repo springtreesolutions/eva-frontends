@@ -14,6 +14,19 @@ Umbrella repository for information about the collection of EVA Frontends
     - [EVA PoS App - Redesign](#eva-pos-app---redesign)
     - [EVA Sign App](#eva-sign-app)
         - [Other information](#other-information)
+    - [EVA Report App](#eva-report-app)
+        - [Also known as](#also-known-as)
+
+
+| Name | Aliases |
+| ---- | ------- |
+| [EVA Sales App](#eva-sales-app) | EVA Client App |
+| [EVA Sales App 2.0](#eva-sales-app-20) | |
+| [EVA PoS App](#eva-pos-app) | EVA PoS App - Classic<br>EVA PoS App - Classic View<br>EVA Kassa App |
+| [EVA PoS App - Redesign](#eva-pos-app---redesign) | |
+| [EVA Sign App](#eva-sign-app) | |
+| [EVA Report App](#eva-report-app) | EVA BI App |
+
 
 ## EVA Sales App
 
@@ -24,6 +37,7 @@ The original EVA Sales App
 ### Also known as
 
 - EVA Client App
+- WPOS
 
 ### Other information
 
@@ -51,6 +65,7 @@ Touch screen optimized PoS application intended to be used as a static station
 
 - EVA PoS App - Classic
 - EVA PoS App - Classic view
+- EVA Kassa App
 
 ### Other information
 
@@ -72,3 +87,11 @@ The EVA companion app for getting the signature of a B2B customer during the ord
 ### Other information
 
 - Application ID: io.newblack.evasignapp
+
+## EVA Report App
+
+- Repository: https://github.com/new-black/eva-reporting-app
+
+### Also known as
+
+- EVA BI App
