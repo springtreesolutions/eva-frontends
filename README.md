@@ -58,7 +58,7 @@ Touch screen optimized PoS application intended to be used as a static station
 
 ## EVA PoS App - Redesign
 
-Redesigned variant of the [EVA PoS App](#EVA-PoS-App) which is actually just a different branch of the EVA PoS App.
+Redesigned variant of the [EVA PoS App](#eva-pos-app) which is actually just a different branch of the EVA PoS App.
 
 - Repository: https://github.com/springtreesolutions/eva-pos-app
 - Branches: feature/redesign
