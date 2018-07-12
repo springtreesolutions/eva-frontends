@@ -60,7 +60,6 @@ Touch screen optimized PoS application intended to be used as a static station
 
 Redesigned variant of the [EVA PoS App](#eva-pos-app) which is actually just a different branch of the EVA PoS App.
 
-- Repository: https://github.com/springtreesolutions/eva-pos-app
 - Branches: feature/redesign
 
 ## EVA Sign App
@@ -72,3 +71,5 @@ The EVA companion app for getting the signature of a B2B customer during the ord
 ### Other information
 
 - Application ID: io.newblack.evasignapp
+- iOS and Android distributed via the public appstores
+
