@@ -38,6 +38,7 @@ The original EVA Sales App
 
 - EVA Client App
 - WPOS
+- Mobile PoS
 
 ### Other information
 
@@ -49,6 +50,10 @@ The original EVA Sales App
 New mobile Sales App for EVA
 
 - Repository: https://github.com/springtreesolutions/eva-sales-app
+
+### Also known as
+
+- Mobile PoS
 
 ### Other information
 
