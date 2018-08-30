@@ -50,6 +50,7 @@ The original EVA Sales App
 New mobile Sales App for EVA
 
 - Repository: https://github.com/springtreesolutions/eva-sales-app
+- Routes: https://coggle.it/diagram/Wvvl6-fgI0uNKbsW/t/sales-app-routing
 
 ### Also known as
 
