@@ -81,7 +81,7 @@ Touch screen optimized PoS application intended to be used as a static station
 
 ## EVA BI App
 
-Employee / manager app for EVA
+Employee / manager app for EVA showing BI statistics
 
 - Repository: https://github.com/springtreesolutions/eva-bi-app
 
