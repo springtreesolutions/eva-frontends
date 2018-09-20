@@ -6,7 +6,7 @@ Umbrella repository for information about the collection of EVA Frontends
     - [EVA Sales App](#eva-sales-app)
         - [Also known as](#also-known-as)
         - [Other information](#other-information)
-    - [EVA Sales App 2.0](#eva-sales-app-20)
+    - [EVA Companion App](#eva-companion-app)
         - [Other information](#other-information)
     - [EVA PoS App](#eva-pos-app)
         - [Also known as](#also-known-as)
@@ -21,7 +21,7 @@ Umbrella repository for information about the collection of EVA Frontends
 | Name | Aliases |
 | ---- | ------- |
 | [EVA Sales App](#eva-sales-app) | EVA Client App<br>WPOS<br>Mobile PoS |
-| [EVA Sales App 2.0](#eva-sales-app-20) | Mobile PoS<br>Companion App |
+| [EVA Companion App](#eva-companion-app) | EVA Sales App 2.0<br>Mobile PoS<br>Companion App |
 | [EVA PoS App](#eva-pos-app) | Classic PoS<br>EVA PoS App - Classic<br>Classic View<br>EVA Kassa App |
 | [EVA PoS App - Redesign](#eva-pos-app---redesign) | |
 | [EVA Sign App](#eva-sign-app) | |
@@ -45,15 +45,17 @@ The original EVA Sales App
 - Application ID: io.newblack.eva-*-app
 - iOS only and distributed as Enterprise application
 
-## EVA Sales App 2.0
+## EVA Companion App
 
-New mobile Sales App for EVA
+New mobile Companion App for EVA
 
 - Repository: https://github.com/springtreesolutions/eva-sales-app
 
 ### Also known as
 
 - Mobile PoS
+- Companion App
+- EVA Sales App 2.0
 
 ### Other information
 
