@@ -11,7 +11,7 @@ Umbrella repository for information about the collection of EVA Frontends
     - [EVA PoS App](#eva-pos-app)
         - [Also known as](#also-known-as)
         - [Other information](#other-information)
-    - [EVA PoS App - Redesign](#eva-pos-app---redesign)
+    - [EVA BI App](#eva-bi-app)
     - [EVA Sign App](#eva-sign-app)
         - [Other information](#other-information)
     - [EVA Report App](#eva-report-app)
@@ -23,7 +23,7 @@ Umbrella repository for information about the collection of EVA Frontends
 | [EVA Sales App](#eva-sales-app) | EVA Client App<br>WPOS<br>Mobile PoS |
 | [EVA Companion App](#eva-companion-app) | EVA Sales App 2.0<br>Mobile PoS<br>Companion App |
 | [EVA PoS App](#eva-pos-app) | Classic PoS<br>EVA PoS App - Classic<br>Classic View<br>EVA Kassa App |
-| [EVA PoS App - Redesign](#eva-pos-app---redesign) | |
+| [EVA BI App](#eva-bi-app) | |
 | [EVA Sign App](#eva-sign-app) | |
 | [EVA Report App](#eva-report-app) | EVA BI App |
 
@@ -79,11 +79,16 @@ Touch screen optimized PoS application intended to be used as a static station
 
 - Deployed as both a web application and packaged as electron app
 
-## EVA PoS App - Redesign
+## EVA BI App
 
-Redesigned variant of the [EVA PoS App](#eva-pos-app) which is actually just a different branch of the EVA PoS App.
+Employee / manager app for EVA
 
-- Branches: feature/redesign
+- Repository: https://github.com/springtreesolutions/eva-bi-app
+
+### Other information
+
+- Application ID: io.newblack.eva.*.bi.app
+- iOS only (for now, future Android) distributed as an App Store app
 
 ## EVA Sign App
 
